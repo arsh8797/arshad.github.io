@@ -1,0 +1,129 @@
+@media (max-width:1024px){
+    .main-about .container .row .tag{
+        padding-left:7rem ;
+        width: rem;
+    }
+    .cards .card-child :nth-child(4){
+        opacity: 0;
+        visibility: hidden;
+    }
+    .follow .f1{
+        padding: 1rem;
+    }
+
+}
+
+
+/* @media (min-width:360px) {
+    .myheader .main-menu .container-fluid .list .uls .nav-item{
+        display: flex; justify-content:center;
+    }
+    .main-about .container .row .img-fluid img{
+        height:20em;
+        width:21em;
+        margin-top:3em;margin-left:-80px
+    }
+    .main-about .container .row .tag{
+        margin-left:-4em;
+    }
+    .projects .container .menu-button button{
+       padding: 25px;
+    }
+
+    
+}
+
+@media (max-width:768px){
+    .site-banner{
+        box-sizing: border-box;
+    }
+    .container-fluid .follow{
+        width: 8em;
+    }
+    .container-fluid{
+       display: block;
+    }
+    .container-fluid .follow h4{
+        display: flex;
+     
+    }
+    
+    .container-fluid .email-me{
+       display: flex;
+     
+    }
+    .container-fluid .rights{
+        background: #1bafaf;
+         display: flex;
+         justify-content:flex-end;
+     
+    }
+    .container-fluid .email-me .em{
+       margin-bottom: x;
+       width: 8em;
+     
+    }
+    .container-fluid .email-me button{
+       
+       width: 3em;
+     
+    }
+    
+
+    
+}
+@media  (max-width:468px){
+   .main-about .container .row .img-fluid img{
+       width: 100%;
+       height: auto;
+       margin-left:-128px ;
+   }
+       
+   }
+    body{
+       box-sizing: border-box;
+   } 
+
+   .myheader .main-menu .navbar {
+       width: 33em;
+   }
+   .row ,.main-about,.brand-area,.cards,.projects,.clients-view{
+    padding-left:60px 
+   }
+   .tag .paragraph .para{
+       box-sizing: border-box;
+       word-spacing: 12px;
+       width:23em;
+   }
+   .owl-item .client-box{
+       height: 18em;
+       display: flex;
+       justify-content: center;
+    
+   }
+   .owl-item .name-box .text-uppercase{
+    text-align:left;
+   font-size: small;
+    padding-right: 9px;
+   }
+   .owl-item .name-box p{
+    text-align:left;
+   font-size:x-small;
+    padding-right: 20px;
+   }
+   .owl-item .row .image-box img{
+    width:100%;
+    height:auto
+
+   }
+   .footer-area .container-fluid{
+       width: 30em
+   }
+   .footer-area .rights{
+        display: none;
+   }
+
+   .footer-area .container-fluid .emeil-me{
+       margin-left: -40px;
+   }
+}
